@@ -3,7 +3,7 @@
 ## Overview
 This configuration uses Vundle for plugin management,
 
-#VIM Configuration                                                                                  
+# VIM Configuration                                                                                  
 
 ## Overview                                                                 
 This configuration uses Vundle for plugin management,                                                                                                   
