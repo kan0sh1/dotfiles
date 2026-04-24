@@ -47,7 +47,7 @@ chmod +x install.sh
 ./install.sh
 ```
 
-*Note: Please refer to the ![Vim README](/vim-config/README.md) for important post-install steps regarding the YouCompleteMe compilation and resolving the initial Dracula theme error.*
+*Note: Please refer to the [Vim README](/vim-config/README.md) for important post-install steps regarding the YouCompleteMe compilation and resolving the initial Dracula theme error.*
 
 ## Polish & Documentation
 
